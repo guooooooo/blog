@@ -11,7 +11,7 @@ tagline: 努力点亮生活的某个角落.
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImage: '/bg.png'
+bgImage: '/bg.jpg'
 bgImageStyle: {
   height: '450px'
 }
