@@ -2,6 +2,7 @@ module.exports = {
   title: "guoguoの秘密花园",
   description: '努力点亮生活的某个角落.',
   dest: 'public',
+  base: '/blog/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }]
